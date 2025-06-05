@@ -95,10 +95,7 @@ public class TrangChu extends javax.swing.JFrame {
 
     private void btnQLNVActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLNVActionPerformed
         // TODO add your handling code here:
-        QLNV p1 = new QLNV();
-        p1.setSize(701,634);
-        p1.setLocationRelativeTo(null);
-        p1.setVisible(true);
+        
     }//GEN-LAST:event_btnQLNVActionPerformed
 
     private void btnQLKHActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLKHActionPerformed
