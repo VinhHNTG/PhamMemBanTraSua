@@ -40,9 +40,9 @@ public class TrangChu extends javax.swing.JFrame {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnQLNVActionPerformed(evt);
                         QLNV p1 = new QLNV();
-        p1.setSize(701,634);
-        p1.setLocationRelativeTo(null);
-        p1.setVisible(true);
+                        p1.setSize(701,634);
+                        p1.setLocationRelativeTo(null);
+                        p1.setVisible(true);
             }
         });
 
