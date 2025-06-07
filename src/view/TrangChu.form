@@ -30,6 +30,14 @@
                   <Component id="btnQLKH" pref="0" max="32767" attributes="0"/>
                   <Component id="btnQLSP" max="32767" attributes="0"/>
                   <Component id="btnQLHD" max="32767" attributes="0"/>
+<<<<<<< HEAD
+=======
+                  <Component id="btnBH" max="32767" attributes="0"/>
+                  <Component id="btnMenu" max="32767" attributes="0"/>
+                  <Component id="btnQLDH" max="32767" attributes="0"/>
+                  <Component id="btnDoanhThu" max="32767" attributes="0"/>
+                  <Component id="btnQLNL" max="32767" attributes="0"/>
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Component id="jPanel1" max="32767" attributes="0"/>
@@ -51,7 +59,21 @@
                       <Component id="btnQLSP" min="-2" pref="47" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="btnQLHD" min="-2" pref="47" max="-2" attributes="0"/>
+<<<<<<< HEAD
                       <EmptySpace min="0" pref="254" max="32767" attributes="0"/>
+=======
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnBH" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnMenu" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnQLDH" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnDoanhThu" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnQLNL" min="-2" pref="47" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
                   </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
@@ -102,7 +124,11 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
+<<<<<<< HEAD
               <EmptySpace min="0" pref="685" max="32767" attributes="0"/>
+=======
+              <EmptySpace min="0" pref="777" max="32767" attributes="0"/>
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -112,5 +138,48 @@
         </DimensionLayout>
       </Layout>
     </Container>
+<<<<<<< HEAD
+=======
+    <Component class="javax.swing.JButton" name="btnBH">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B&#xe1;n H&#xe0;ng"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnBHActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnMenu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Menu"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnMenuActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnQLDH">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n L&#xfd; &#x110;&#x1a1;n H&#xe0;ng"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnQLDHActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnDoanhThu">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Doanh Thu"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnDoanhThuActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnQLNL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Qu&#x1ea3;n L&#xfd; Nguy&#xea;n Li&#x1ec7;u"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnQLNLActionPerformed"/>
+      </Events>
+    </Component>
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
   </SubComponents>
 </Form>

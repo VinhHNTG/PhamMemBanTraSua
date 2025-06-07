@@ -34,6 +34,14 @@ public class TrangChu extends javax.swing.JFrame {
         btnQLSP = new javax.swing.JButton();
         btnQLHD = new javax.swing.JButton();
         jPanel1 = new javax.swing.JPanel();
+<<<<<<< HEAD
+=======
+        btnBH = new javax.swing.JButton();
+        btnMenu = new javax.swing.JButton();
+        btnQLDH = new javax.swing.JButton();
+        btnDoanhThu = new javax.swing.JButton();
+        btnQLNL = new javax.swing.JButton();
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -75,13 +83,55 @@ public class TrangChu extends javax.swing.JFrame {
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+<<<<<<< HEAD
             .addGap(0, 685, Short.MAX_VALUE)
+=======
+            .addGap(0, 777, Short.MAX_VALUE)
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
+<<<<<<< HEAD
+=======
+        btnBH.setText("Bán Hàng");
+        btnBH.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnBHActionPerformed(evt);
+            }
+        });
+
+        btnMenu.setText("Menu");
+        btnMenu.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnMenuActionPerformed(evt);
+            }
+        });
+
+        btnQLDH.setText("Quản Lý Đơn Hàng");
+        btnQLDH.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnQLDHActionPerformed(evt);
+            }
+        });
+
+        btnDoanhThu.setText("Doanh Thu");
+        btnDoanhThu.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnDoanhThuActionPerformed(evt);
+            }
+        });
+
+        btnQLNL.setText("Quản Lý Nguyên Liệu");
+        btnQLNL.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnQLNLActionPerformed(evt);
+            }
+        });
+
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -92,7 +142,16 @@ public class TrangChu extends javax.swing.JFrame {
                     .addComponent(btnQLNV, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(btnQLKH, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
                     .addComponent(btnQLSP, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+<<<<<<< HEAD
                     .addComponent(btnQLHD, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+=======
+                    .addComponent(btnQLHD, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(btnBH, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(btnMenu, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(btnQLDH, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(btnDoanhThu, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(btnQLNL, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
                 .addGap(18, 18, 18)
                 .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
@@ -111,7 +170,21 @@ public class TrangChu extends javax.swing.JFrame {
                         .addComponent(btnQLSP, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
                         .addComponent(btnQLHD, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+<<<<<<< HEAD
                         .addGap(0, 254, Short.MAX_VALUE)))
+=======
+                        .addGap(18, 18, 18)
+                        .addComponent(btnBH, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(18, 18, 18)
+                        .addComponent(btnMenu, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(18, 18, 18)
+                        .addComponent(btnQLDH, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(18, 18, 18)
+                        .addComponent(btnDoanhThu, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(18, 18, 18)
+                        .addComponent(btnQLNL, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGap(0, 0, Short.MAX_VALUE)))
+>>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
                 .addContainerGap())
         );
 
@@ -134,6 +207,14 @@ public class TrangChu extends javax.swing.JFrame {
 
     private void btnQLKHActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLKHActionPerformed
         // TODO add your handling code here:
+        QLKH  p2 = new  QLKH();                   // QLNV giờ là JPanel
+        p2.setSize(863, 574);                   // (có thể bỏ, JPanel dùng layout thường không cần setSize)
+        p2.setLocation(0, 0);                  // (có thể bỏ nếu dùng BorderLayout)
+
+        jPanel1.removeAll();
+        jPanel1.add(p2, BorderLayout.CENTER);  // ✅ hợp lệ
+        jPanel1.repaint();
+        jPanel1.revalidate();
     }//GEN-LAST:event_btnQLKHActionPerformed
 
     private void btnQLSPActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLSPActionPerformed
@@ -150,7 +231,28 @@ public class TrangChu extends javax.swing.JFrame {
 
     private void btnQLHDActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLHDActionPerformed
         // TODO add your handling code here:
+
     }//GEN-LAST:event_btnQLHDActionPerformed
+
+    private void btnBHActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnBHActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnBHActionPerformed
+
+    private void btnMenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnMenuActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnMenuActionPerformed
+
+    private void btnQLDHActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLDHActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnQLDHActionPerformed
+
+    private void btnDoanhThuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDoanhThuActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnDoanhThuActionPerformed
+
+    private void btnQLNLActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnQLNLActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnQLNLActionPerformed
 
     /**
      * @param args the command line arguments
@@ -188,8 +290,13 @@ public class TrangChu extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnBH;
+    private javax.swing.JButton btnDoanhThu;
+    private javax.swing.JButton btnMenu;
+    private javax.swing.JButton btnQLDH;
     private javax.swing.JButton btnQLHD;
     private javax.swing.JButton btnQLKH;
+    private javax.swing.JButton btnQLNL;
     private javax.swing.JButton btnQLNV;
     private javax.swing.JButton btnQLSP;
     private javax.swing.JPanel jPanel1;
