@@ -32,6 +32,7 @@
                   <Component id="btnQLHD" max="32767" attributes="0"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
@@ -44,6 +45,8 @@
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Component id="jPanel1" max="32767" attributes="0"/>
@@ -67,6 +70,7 @@
                       <Component id="btnQLHD" min="-2" pref="47" max="-2" attributes="0"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                       <EmptySpace min="0" pref="254" max="32767" attributes="0"/>
 =======
 =======
@@ -86,6 +90,9 @@
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+                      <EmptySpace min="0" pref="254" max="32767" attributes="0"/>
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
                   </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
@@ -138,6 +145,7 @@
           <Group type="103" groupAlignment="0" attributes="0">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               <EmptySpace min="0" pref="685" max="32767" attributes="0"/>
 =======
               <EmptySpace min="0" pref="777" max="32767" attributes="0"/>
@@ -145,6 +153,9 @@
 =======
               <EmptySpace min="0" pref="777" max="32767" attributes="0"/>
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+              <EmptySpace min="0" pref="685" max="32767" attributes="0"/>
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -154,6 +165,7 @@
         </DimensionLayout>
       </Layout>
     </Container>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -203,5 +215,7 @@
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
   </SubComponents>
 </Form>

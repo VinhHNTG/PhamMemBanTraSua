@@ -36,6 +36,7 @@ public class TrangChu extends javax.swing.JFrame {
         jPanel1 = new javax.swing.JPanel();
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
@@ -48,6 +49,8 @@ public class TrangChu extends javax.swing.JFrame {
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -91,6 +94,7 @@ public class TrangChu extends javax.swing.JFrame {
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             .addGap(0, 685, Short.MAX_VALUE)
 =======
             .addGap(0, 777, Short.MAX_VALUE)
@@ -98,12 +102,16 @@ public class TrangChu extends javax.swing.JFrame {
 =======
             .addGap(0, 777, Short.MAX_VALUE)
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+            .addGap(0, 685, Short.MAX_VALUE)
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -148,6 +156,8 @@ public class TrangChu extends javax.swing.JFrame {
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -158,6 +168,7 @@ public class TrangChu extends javax.swing.JFrame {
                     .addComponent(btnQLNV, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addComponent(btnQLKH, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
                     .addComponent(btnQLSP, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                     .addComponent(btnQLHD, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
@@ -174,6 +185,9 @@ public class TrangChu extends javax.swing.JFrame {
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+                    .addComponent(btnQLHD, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
                 .addGap(18, 18, 18)
                 .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addContainerGap())
@@ -192,6 +206,7 @@ public class TrangChu extends javax.swing.JFrame {
                         .addComponent(btnQLSP, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
                         .addComponent(btnQLHD, javax.swing.GroupLayout.PREFERRED_SIZE, 47, javax.swing.GroupLayout.PREFERRED_SIZE)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                         .addGap(0, 254, Short.MAX_VALUE)))
@@ -213,6 +228,9 @@ public class TrangChu extends javax.swing.JFrame {
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
 =======
 >>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
+=======
+                        .addGap(0, 254, Short.MAX_VALUE)))
+>>>>>>> 628fcad6ce50e59f3f3e10993ba9e30218e3123a
                 .addContainerGap())
         );
 
