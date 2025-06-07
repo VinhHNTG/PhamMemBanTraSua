@@ -17,6 +17,7 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
 <<<<<<< HEAD
+<<<<<<< HEAD
           <Group type="102" attributes="0">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
@@ -33,6 +34,14 @@
                   <Component id="jScrollPane1" min="-2" pref="693" max="-2" attributes="0"/>
                   <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
+=======
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane1" min="-2" pref="693" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
                           <Group type="102" alignment="0" attributes="0">
                               <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
                               <EmptySpace type="separate" max="-2" attributes="0"/>
@@ -55,10 +64,14 @@
                                   <Component id="txt_TenNV" min="-2" pref="455" max="-2" attributes="0"/>
                                   <Component id="txt_Tuoi" min="-2" pref="455" max="-2" attributes="0"/>
                               </Group>
+<<<<<<< HEAD
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
                           </Group>
                           <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
                       </Group>
+<<<<<<< HEAD
 <<<<<<< HEAD
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
@@ -112,12 +125,25 @@
               </Group>
               <EmptySpace pref="43" max="32767" attributes="0"/>
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+                      <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="btn_them" min="-2" pref="102" max="-2" attributes="0"/>
+                          <Component id="btn_Show" min="-2" pref="102" max="-2" attributes="0"/>
+                          <Component id="btn_Sua" alignment="1" min="-2" pref="102" max="-2" attributes="0"/>
+                          <Component id="btn_Xoa" min="-2" pref="102" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="43" max="32767" attributes="0"/>
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
           </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
+<<<<<<< HEAD
 <<<<<<< HEAD
               <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
               <Component id="btn_Show" min="-2" pref="31" max="-2" attributes="0"/>
@@ -146,6 +172,8 @@
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
 =======
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
               <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -172,12 +200,16 @@
                           <Component id="txt_SDT" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace max="-2" attributes="0"/>
+<<<<<<< HEAD
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="txt_ChucVu" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
+<<<<<<< HEAD
 <<<<<<< HEAD
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
@@ -192,6 +224,11 @@
               </Group>
               <EmptySpace pref="19" max="32767" attributes="0"/>
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+                  <Component id="btn_Xoa" alignment="0" min="-2" pref="31" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="19" max="32767" attributes="0"/>
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
               <Component id="jScrollPane1" min="-2" pref="228" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
           </Group>

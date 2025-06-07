@@ -31,13 +31,19 @@
                   <Component id="btnQLSP" max="32767" attributes="0"/>
                   <Component id="btnQLHD" max="32767" attributes="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
                   <Component id="btnBH" max="32767" attributes="0"/>
                   <Component id="btnMenu" max="32767" attributes="0"/>
                   <Component id="btnQLDH" max="32767" attributes="0"/>
                   <Component id="btnDoanhThu" max="32767" attributes="0"/>
                   <Component id="btnQLNL" max="32767" attributes="0"/>
+<<<<<<< HEAD
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Component id="jPanel1" max="32767" attributes="0"/>
@@ -60,8 +66,11 @@
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="btnQLHD" min="-2" pref="47" max="-2" attributes="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
                       <EmptySpace min="0" pref="254" max="32767" attributes="0"/>
 =======
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="btnBH" min="-2" pref="47" max="-2" attributes="0"/>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
@@ -73,7 +82,10 @@
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="btnQLNL" min="-2" pref="47" max="-2" attributes="0"/>
                       <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+<<<<<<< HEAD
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
                   </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
@@ -125,10 +137,14 @@
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
 <<<<<<< HEAD
+<<<<<<< HEAD
               <EmptySpace min="0" pref="685" max="32767" attributes="0"/>
 =======
               <EmptySpace min="0" pref="777" max="32767" attributes="0"/>
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+              <EmptySpace min="0" pref="777" max="32767" attributes="0"/>
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
           </Group>
         </DimensionLayout>
         <DimensionLayout dim="1">
@@ -139,7 +155,10 @@
       </Layout>
     </Container>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
     <Component class="javax.swing.JButton" name="btnBH">
       <Properties>
         <Property name="text" type="java.lang.String" value="B&#xe1;n H&#xe0;ng"/>
@@ -180,6 +199,9 @@
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnQLNLActionPerformed"/>
       </Events>
     </Component>
+<<<<<<< HEAD
 >>>>>>> e1c569c4c4c1d1674236a6e924cf298a2e75a7fc
+=======
+>>>>>>> 1f74f6f4902dfc1b34f5ba3aea55ab88c17ac13d
   </SubComponents>
 </Form>
